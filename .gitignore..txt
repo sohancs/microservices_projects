@@ -3,5 +3,8 @@
 .settings/
 target/
 .mvn/
+*/.mvn/**
 .metadata/
+*/.metadata/**
 git-localconfig-repo-microservices/
+
